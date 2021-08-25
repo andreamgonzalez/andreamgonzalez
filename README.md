@@ -1,6 +1,23 @@
-- About me ...
-- Demo Projects ...
-- How to reach me ...
+## About me ... 
+* ⚡ I am a Web Developer, with experience in Javascript, PHP, React and ReactNative.
+* ⭐ I speak English and Spanish
+* 📖 Always, a work in progress.
+<br>
+
+## Demo Projects ...
+*
+*
+<br>
+
+## How to reach me ...
+<p>
+  <a href="https://www.linkedin.com/in/andreagonzalez11/" rel="nofollow noreferrer">
+		<img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>
+  </a> &nbsp;
+  <a href="mailto: andreagon6135@gmail.com" rel="nofollow noreferrer">
+		<img src="https://img.icons8.com/ios/50/000000/gmail-new.png"/>
+  </a>
+</p>
 <!--
 **andreamgonzalez/andreamgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
