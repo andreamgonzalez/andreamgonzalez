@@ -1,5 +1,5 @@
 ## About me ... 
-* ⚡ I am a Web Developer, with experience in Javascript, PHP, React, ReactNative, HTML, CSS, and Bootstrap.
+* ⚡ I am a Web Developer, with experience in Javascript, PHP, React, React Native, HTML, CSS, and Bootstrap.
 * ⭐ I speak English and Spanish
 * 📖 Always, a work in progress.
 <br>
