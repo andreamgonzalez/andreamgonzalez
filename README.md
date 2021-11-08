@@ -10,6 +10,9 @@
 
 * <p><a href="https://andreamgonzalez.github.io/JournalFit-Site/" rel="nofollow noreferrer">JournalFit</a> I created this demo website for a boutique fitness blog business. This websites interface was built from scratch using HTML | CSS | Bootstrap. The user has the ability to enter their biometric data in order to begin their journal for their fitness journey. This website also runs a blogging business to help its users on their fitness journey. Progress can be accessed by the users through loging in to their account.
 </p>
+
+* <p><a href="https://andreamgonzalez.github.io/WeatherApp" rel="nofollow noreferrer">WeatherApp</a> This weather application was developed using vanilla Javascript, HTML, and CSS. The user can search for the current weather in different cities across the globe with the use of the OpenWeather Api.
+</p>
 <br>
 
 ## How to reach me ...
