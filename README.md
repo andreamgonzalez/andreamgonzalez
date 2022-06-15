@@ -1,7 +1,6 @@
 ## About me ... 
 * ⚡ I am a Web Developer, with experience in PHP, Javascript, React, jQuery, AJAX, Bootstrap, HTML, CSS.
 * 📖 Always learning.
-* 🌱 I’m currently learning Javascript
 <br>
 
 ## Demo Projects ...
