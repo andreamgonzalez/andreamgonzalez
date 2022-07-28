@@ -1,8 +1,19 @@
-## About me ... 
+##Software Developer
 * ⚡ I am a Web Developer, with experience in PHP, Javascript, React, jQuery, AJAX, Bootstrap, HTML, CSS.
 <br>
 
-## Demo Projects ...
+##TECHNICALS SKILLS:
+Languages: HTML5, CSS, JavaScript, Php
+
+Libraries and Frameworks: Bootstrap, jQuery, React.js, Node.js
+
+Databases: MySQL
+
+Testing: Jasmine, Jest
+
+Deployment and CI/CD: Docker, Jenkins, GitHub
+
+<!--## projects
 * <p><a href="https://andreamgonzalez.github.io/NuCampSite-Site/" rel="nofollow noreferrer">Nucamp</a> I built this website for a demo camping site. In this website a customer can purchase and reserve their stay at their chosen camping designation. They also have the capability of logging in to access their purchased goods. This website was built using Bootstrap and Jquery. I recreated the same UI with React and built an app version for android devices using the Android SDK tool and ReactNative. Redux was used for state management.
 </p>
 
@@ -12,8 +23,9 @@
 * <p><a href="https://andreamgonzalez.github.io/WeatherApp" rel="nofollow noreferrer">WeatherApp</a> This weather application was developed using vanilla Javascript, HTML, and CSS. The user can search for the current weather in different cities across the globe with the use of the OpenWeather Api.
 </p>
 <br>
+-->
 
-## How to reach me ...
+## PAGES
 <p>
   <a href="https://www.linkedin.com/in/andreagonzalez11/" rel="nofollow noreferrer">
 		<img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>
@@ -22,6 +34,8 @@
 		<img src="https://img.icons8.com/ios/50/000000/gmail-new.png"/>
   </a>
 </p>
+
+
 <!--
 **andreamgonzalez/andreamgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
