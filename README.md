@@ -22,6 +22,12 @@ Deployment and CI/CD: Docker, Jenkins, GitHub
 
 * <p><a href="https://andreamgonzalez.github.io/WeatherApp" rel="nofollow noreferrer">WeatherApp</a> This weather application was developed using vanilla Javascript, HTML, and CSS. The user can search for the current weather in different cities across the globe with the use of the OpenWeather Api.
 </p>
+
+* <p><a href="https://andreamgonzalez.github.io/calculator-test/" rel="nofollow noreferrer">Loan Calculator</a> This is loan calculator built using vanilla Javascript and tested with Jasmine.
+</p>
+
+* <p><a href="https://andreamgonzalez.github.io/memory-game/" rel="nofollow noreferrer">Memory Game</a> This is a simple card memory game developed using vanilla Javascript, HTML, and CSS. 
+</p>
 <br>
 
 
