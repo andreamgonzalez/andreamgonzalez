@@ -1,4 +1,4 @@
-## Software Engineering based in Greater Philadelphia, PA area.
+## Software Engineer based in the Greater Philadelphia, PA area.
 
 
 ## TECHNICALS SKILLS:
