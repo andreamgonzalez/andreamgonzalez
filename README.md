@@ -3,15 +3,15 @@ Software Engineer based in the Greater Philadelphia, PA area.
 
 
 ## TECHNICALS SKILLS:
-Languages: HTML5, CSS, JavaScript, Php
+Languages: PHP, JavaScript, Python
 
-Libraries and Frameworks: Bootstrap, jQuery, AJAX, React.js, Node.js
+Libraries and Frameworks: Bootstrap, jQuery, AJAX, React.js, Node.js, Flask.js, Express.js, MySQL Alchemy
 
-Databases: MySQL
+Databases: MySQL, PostgresQL
 
-Testing: Jasmine, Jest
+Testing: Jasmine, Jest, Insomnia
 
-Deployment and CI/CD: Docker, Jenkins, GitHub
+Deployment and CI/CD: Docker, Jenkins, GitHub, Bitbucket
 
 ## PROJECTS
 * <p><a href="https://andreamgonzalez.github.io/NuCampSite-Site/" rel="nofollow noreferrer">Nucamp</a> I built this website for a demo camping site. In this website a customer can purchase and reserve their stay at their chosen camping designation. They also have the capability of logging in to access their purchased goods. This website was built using Bootstrap and Jquery. I recreated the same UI with React and built an app version for android devices using the Android SDK tool and ReactNative. Redux was used for state management.
