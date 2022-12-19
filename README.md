@@ -7,9 +7,9 @@ Languages: PHP, JavaScript, Python
 
 Libraries and Frameworks:
 
-	FrontEnd: Bootstrap, jQuery, AJAX, React.js, Jinja
+	FrontEnd: Bootstrap, jQuery, AJAX, React.js, Vue.js, Jinja
 
-	Backend: Node.js, Express.js, Flask
+	Backend: Laravel, Node.js, Express.js, Flask
 
 Databases: MySQL, PostgresQL, MySQLAlchemy
 
