@@ -6,7 +6,9 @@ Software Engineer based in the Greater Philadelphia, PA area.
 Languages: PHP, JavaScript, Python
 
 Libraries and Frameworks:
+
 FrontEnd(Bootstrap, jQuery, AJAX, React.js)
+
 Backend(Node.js, Flask.js, Express.js)
 
 Databases: MySQL, PostgresQL, MySQLAlchemy
