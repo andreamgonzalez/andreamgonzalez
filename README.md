@@ -45,7 +45,7 @@ Deployment and CI/CD: Docker, Jenkins, GitHub, Bitbucket, Jira
   </a>
 </p> -->
 <p>Portfolio: https://andreamgonzalez.github.io/Portfolio</p>
-<p>Linkedin: https://www.linkedin.com/in/andreagonzalez11</p>
+<!-- <p>Linkedin: https://www.linkedin.com/in/andreagonzalez11</p> -->
 <p>Github: https://github.com/andreamgonzalez</p>
 <!--
 **andreamgonzalez/andreamgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
